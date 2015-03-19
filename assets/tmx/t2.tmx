@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="148" height="15" tilewidth="32" tileheight="32">
+ <objectgroup name="Enemies" width="148" height="15">
+  <object x="416" y="373" width="41" height="17"/>
+  <object x="584" y="389" width="47" height="17"/>
+  <object x="756" y="390" width="45" height="16"/>
+  <object x="878" y="389" width="50" height="19"/>
+  <object x="1187" y="369" width="48" height="20"/>
+  <object x="1509" y="389" width="50" height="19"/>
+  <object x="1953" y="374" width="53" height="19"/>
+  <object x="2431" y="375" width="49" height="21"/>
+  <object x="2693" y="386" width="54" height="21"/>
+  <object x="2885" y="387" width="57" height="20"/>
+  <object x="3174" y="374" width="50" height="19"/>
+  <object x="3371" y="375" width="47" height="21"/>
+  <object x="3846" y="258" width="55" height="18"/>
+  <object x="3887" y="373" width="50" height="22"/>
+ </objectgroup>
+ <objectgroup name="gro" width="148" height="15">
+  <object x="0" y="360" width="166" height="14"/>
+  <object x="170" y="376" width="135" height="19"/>
+  <object x="310" y="395" width="155" height="15"/>
+  <object x="469" y="411" width="626" height="6"/>
+  <object x="1098" y="404" width="38" height="3"/>
+  <object x="1130" y="393" width="152" height="3"/>
+  <object x="1279" y="412" width="467" height="6"/>
+  <object x="1742" y="400" width="343" height="3"/>
+  <object x="2167" y="399" width="404" height="7"/>
+  <object x="2572" y="410" width="479" height="5"/>
+  <object x="3044" y="399" width="573" height="3"/>
+  <object x="3617" y="374" width="23" height="21"/>
+  <object x="3641" y="347" width="29" height="24"/>
+  <object x="3665" y="308" width="31" height="35"/>
+  <object x="3693" y="281" width="336" height="10"/>
+  <object x="3824" y="299" width="23" height="97"/>
+  <object x="3846" y="400" width="917" height="11"/>
+  <object x="4728" y="97" width="4" height="298"/>
+  <object x="1" y="16" width="1" height="339"/>
+  <object x="2054" y="471" width="133" height="8"/>
+ </objectgroup>
+ <objectgroup name="energyPoints" width="148" height="15">
+  <object x="4002" y="255" width="21" height="19"/>
+  <object x="3703" y="258" width="20" height="18"/>
+  <object x="2055" y="380" width="17" height="13"/>
+ </objectgroup>
+ <objectgroup name="hpPoints" width="148" height="15">
+  <object x="1750" y="371" width="27" height="21"/>
+  <object x="3464" y="378" width="21" height="18"/>
+ </objectgroup>
+ <objectgroup name="abyss" width="148" height="15">
+  <object x="2075" y="417" width="97" height="4"/>
+ </objectgroup>
+</map>
